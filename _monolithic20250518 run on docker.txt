@@ -1,0 +1,36 @@
+wsl.exe --set-default-version 2
+ mvnw clean
+ Set-NetConnectionProfile -interfacealias "vEthernet (DockerNAT)" -NetworkCategory Private
+ docker --version
+mvnw
+cd C:\Users\h_val\IdeaProjects\jhipster-sample-application-Monolithic20250518
+npmw update
+./npmw update
+./npm audit
+npm update loader-util
+./npm update loader-util
+./npmw update loader-util
+
+./npmw install
+
+npm audit
+./npmw audit
+./npmw update sourcemap-istanbul-instrumenter-loader
+.\mvnw
+.\mvnw start
+./mvnw start
+./npmw start
+./npmw help
+./npmw run
+./mvnw -Pprod clean verify
+npm run webapp:test
+ docker compose -f src/main/docker/jhipster-control-center.yml up
+docker pull jhipster/jhipster
+./mvnw clean
+ npm run lint:fix
+./npmw run lint:fix
+
+./mvnw package -Pprod verify jib:dockerBuild
+docker login
+docker pull jhipstersampleapplicationmonolithic20250518
+docker compose -f src/main/docker/app.yml up
